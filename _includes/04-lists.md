@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### Favourite TV shows
+- Strike Back
+- Da Vinci's Demons
+- Banshee
+- Sons of Anarchy
+- The Originals
+- Attack on Titan
