@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have spent the last year learning a range of programming languages, some examples being __HTML__, __CSS__, __JavaScript__ and __SQL__. It has been a challenge, but one that I am *very* happy I have set for myself, and will be beneficial for my career prospects.
